@@ -1,1 +1,1 @@
-# AR-Mobile-Simple-Application
+# Simple Mobile Application (AR)
